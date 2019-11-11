@@ -1,3 +1,27 @@
-# React-Static - Basic Template
+# React Static Site Builder
 
-To use this template, run `react-static create` and use the `basic` template.
+This site was built using: https://github.com/react-static/react-static
+
+
+## Get started
+
+Install 
+```sh
+yarn install
+```
+
+Start Site Builder:
+```sh
+
+yarn start
+
+```
+
+## TODO
+
+---
+
+- [x] demo up and running 
+- [x] deployed
+- [ ] GCB Deploy :)
+

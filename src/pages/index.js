@@ -11,8 +11,8 @@ export default () => (
 
       <h5>Comming Soon .... Google bucket deployment </h5>
 
-      Repo <a href=""></a>
-
+      Repo: <a href="https://github.com/mpatino117/react-static-websitebuilder"></a>
+      <a href="https://5dc8c0f021788d6b0ccbb30b--dreamy-darwin-5e1de6.netlify.com/sitebuilder"> Demo Site </a>
     </div>
 
   </div>
