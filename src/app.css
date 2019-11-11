@@ -32,3 +32,6 @@ nav a {
   display: inline-block;
 }
 
+.container {
+  padding: 10px;
+}
